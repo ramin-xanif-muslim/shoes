@@ -11,8 +11,8 @@ const Nav = () => {
             src={headerLogo}
             alt='logo'
             width={129}
-            height={29}
-            className='m-0 w-[129px] h-[29px]'
+            height={39}
+            className='m-0 w-[129px] h-[39px] object-cover'
           />
         </a>
         <ul className='flex-1 flex justify-center items-center gap-16 max-lg:hidden'>
